@@ -1,0 +1,6 @@
+{
+  "name": "AI 블로그 포스팅 생성기",
+  "description": "네이버 블로그 스타일의 자연스럽고 생생한 인플루언서 톤 리뷰 글을 생성하고 편집하는 AI 도구입니다. 지역, 매장명, 링크, 메인/상세 키워드 등을 입력해 최소 1500자 이상의 고품질 포스팅을 완성해보세요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
